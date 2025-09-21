@@ -88,7 +88,7 @@ Deploy dashboard on cloud (Streamlit Cloud / AWS)
 
 📬 Contact
 
-Feel free to connect with me on LinkedIn https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B8daEd6imTCaCxAhZSfuwEw%3D%3D
+Feel free to connect with me on LinkedIn linkedin.com/in/vinutha-naik
  or raise issues in this repo for discussions.
 
 
